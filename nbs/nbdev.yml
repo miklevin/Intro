@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "intro"
-  site-url: "https://miklevin.github.io/intro"
-  description: "Introduction to MyKoz.AI"
-  repo-branch: main
-  repo-url: "https://github.com/miklevin/intro"
